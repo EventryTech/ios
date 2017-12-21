@@ -1,15 +1,14 @@
 //
-//  eventryTests.swift
-//  eventryTests
+//  EventryTests.swift
+//  EventryTests
 //
 //  Created by 主計義高 on 2017/12/21.
-//  Copyright © 2017年 主計義高. All rights reserved.
 //
 
 import XCTest
-@testable import eventry
+@testable import Eventry
 
-class eventryTests: XCTestCase {
+class EventryTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

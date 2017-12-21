@@ -1,9 +1,8 @@
 //
 //  AppDelegate.swift
-//  eventry
+//  Eventry
 //
 //  Created by 主計義高 on 2017/12/21.
-//  Copyright © 2017年 主計義高. All rights reserved.
 //
 
 import UIKit
